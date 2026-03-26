@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+---
+
+
 # Privacy Policy
 
 **Fetch - Download Manager**
